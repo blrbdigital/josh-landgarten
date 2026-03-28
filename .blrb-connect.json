@@ -1,0 +1,7 @@
+{
+  "domain": "josh-landgarten.blrbdigital.com",
+  "type": "vite",
+  "port": 3040,
+  "container": "app_josh_landgarten_blrbdigital_com",
+  "deploy_script": "/usr/local/bin/deploy_josh_landgarten_blrbdigital_com"
+}
