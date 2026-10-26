@@ -96,6 +96,12 @@
   border: 1px solid transparent;
 }
 
+@media (prefers-color-scheme: dark) {
+  .btn-primary {
+    color: #0f172a;
+  }
+}
+
 @media (prefers-color-scheme: light) {
   .btn-primary {
     background: var(--accent);
